@@ -87,7 +87,7 @@
   "Categories": [
     {
       "Id": "51fa7728-5658-4a2e-b08e-e004ca0f3b46",
-      "Name": "Get ready to transform the way you work! This training hub is your gateway to mastering Power Apps, Power Automate, Power BI, and Power Virtual Agents. Learn how to build apps, automate workflows, analyze data, and create intelligent bots—all with low-code tools designed to empower everyone.",
+      "Name": "Microsoft Power Platform",
       "Image": "images/categories/PowerPlatform.png",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
