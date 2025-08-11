@@ -1,9 +1,9 @@
 [
   {
     "Id": "d97dd190-397a-4037-86e8-9cb4d9beb358",
-    "Title": "Get started with Power Automate",
+    "Title": "Power Automate Guided Tour",
     "Description": "",
-    "Url": "https://learn.microsoft.com/en-us/training/modules/get-started-flows/",
+    "Url": "https://guidedtour.microsoft.com/guidedtour/guidedtour/power-platform/power-automate",
     "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
     "SubjectId": "",
     "Source": "SOC",
@@ -12,9 +12,9 @@
   },
   {
     "Id": "651cff1e-a1c8-4f9b-b026-9883141ce685",
-    "Title": "Video: Create a team or communication site",
+    "Title": "Power App Guided Tour",
     "Description": "",
-    "Url": "https://support.office.com/en-us/f1/article/video-create-a-team-or-communication-site-551e190a-8fbe-47ae-a88a-798b443c46b1?embed=true&ns=trainingservices&version=3",
+    "Url": "https://guidedtour.microsoft.com/en-us/guidedtour/power-platform/power-apps",
     "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
     "SubjectId": "",
     "Source": "SOC",
@@ -23,15 +23,20 @@
   },
   {
     "Id": "cd4764b9-6005-4eb3-b414-8376983f3792",
-    "Title": "What is a SharePoint hub site?",
+    "Title": "Power BI Guided Tour",
     "Description": "",
-    "Url": "https://support.office.com/en-us/f1/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?embed=true&ns=trainingservices&version=3",
+    "Url": "https://guidedtour.microsoft.com/en-us/guidedtour/power-platform/power-bi",
     "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
     "SubjectId": "",
     "Source": "SOC",
     "StatusTagId": "b139cdb6-7ca2-4913-a118-0d8d2b20333c",
     "StatusNote": ""
   },
+
+
+
+
+
   {
     "Id": "d59696be-04aa-4bba-a932-c5b0f9c18d97",
     "Title": "What is a document library?",

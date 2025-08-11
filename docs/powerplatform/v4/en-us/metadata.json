@@ -87,15 +87,15 @@
   "Categories": [
     {
       "Id": "51fa7728-5658-4a2e-b08e-e004ca0f3b46",
-      "Name": "Power Platform",
-      "Image": "",
+      "Name": "Microsoft Power Platform",
+      "Image": "images/categories/PowerPlatform.png",
       "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
       "SubjectId": "",
       "Source": "",
       "SubCategories": [
         {
           "Id": "5f078eee-488b-4d28-b2a4-2a68a6662db6",
-          "Name": "Getting started with Power Automate",
+          "Name": "Microsoft Power Automate",
           "Image": "images/categories/PowerAutomate.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
@@ -104,7 +104,7 @@
         },
         {
           "Id": "35d96c14-6269-4cdf-8ac1-2944bb278860",
-          "Name": "Getting started with Power Apps",
+          "Name": "Microsoft Power Apps",
           "Image": "images/categories/PowerApps.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
@@ -113,7 +113,7 @@
         },
         {
           "Id": "6be8e21b-c070-4305-a3d1-996569adcfbe",
-          "Name": "Getting started with Power BI",
+          "Name": "Microsoft Power BI",
           "Image": "images/categories/PowerBI.png",
           "TechnologyId": "aa90a736-5b7d-4d9a-8088-4e9c41ff9841",
           "SubjectId": null,
